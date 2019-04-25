@@ -38,10 +38,10 @@ For a total of 1975,50 km (see solution below)
 
 ## Optimized travel route
 
-The solution I came up with is 633,40 km, which saves our precious planet 1300+ km of gasoline.
+The solution I came up with is 643,00 km, which saves our precious planet 1300+ km of gasoline.
 
 ```
-Lint -> Reet -> Niel -> Boom -> Doel -> Sinaai -> Heist -> Gits -> Tielt -> Ghent -> Mere -> Lot -> Vorst -> Puurs -> Jeuk -> Mal -> As -> Bree -> Peer -> Geel -> Schriek -> Haacht -> Leest -> Duffel -> Lint
+Mere -> Lot -> Vorst -> Jeuk -> Mal -> As -> Bree -> Peer -> Geel -> Schriek -> Haacht -> Leest -> Duffel -> Lint -> Reet -> Niel -> Boom -> Puurs -> Sinaai -> Doel -> Heist -> Gits -> Tielt -> Gent -> Mere
 ```
 
 ![Optimized route](./images/optimized.gif)

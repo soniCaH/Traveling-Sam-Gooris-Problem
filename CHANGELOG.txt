@@ -1,0 +1,5 @@
+# 2019-04-25 - Wrong distance in dataset
+
+All calculations redone - as the distance between Puurs and Jeuk in the dataset was incorrectly entered as 37,2 instead of 97,2.
+
+Thanks to @brecht_yperman for noticing odd behavior in the gif.
